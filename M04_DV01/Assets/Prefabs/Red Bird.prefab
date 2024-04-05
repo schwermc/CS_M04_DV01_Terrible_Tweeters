@@ -49,7 +49,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _launchForce: 1100
-  _maxDragDistance: 2
+  _maxDragDistance: 5
 --- !u!212 &1676714855460332712
 SpriteRenderer:
   m_ObjectHideFlags: 0

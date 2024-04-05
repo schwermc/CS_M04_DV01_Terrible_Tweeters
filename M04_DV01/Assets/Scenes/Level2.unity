@@ -2742,6 +2742,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1118575257329067251, guid: 36cb0a389d8a20144b3a467a89f45202, type: 3}
+      propertyPath: _nextLevelName
+      value: Level1
+      objectReference: {fileID: 0}
     - target: {fileID: 2055673604735278531, guid: 36cb0a389d8a20144b3a467a89f45202, type: 3}
       propertyPath: m_Name
       value: LevelController
